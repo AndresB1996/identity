@@ -1,0 +1,17 @@
+entities\Configuration.class
+entities\Application.class
+repositories\PlatformRepository.class
+interfaces\ApplicationInterface.class
+repositories\ConfigurationRepository.class
+controllers\RestApplication.class
+interfaces\ConfigurationInterface.class
+controllers\ApplicationController.class
+controllers\ConfigurationController.class
+entities\Platform.class
+entities\User.class
+interfaces\PlatformInterface.class
+controllers\PlatformController.class
+entities\Device.class
+entities\QRCode.class
+repositories\ApplicationRepository.class
+controllers\AddConfig.class
